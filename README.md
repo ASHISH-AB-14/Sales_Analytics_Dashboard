@@ -43,6 +43,5 @@ Insight: Dashboard product-level sales aur profitability ko compare karne mein h
 - Products_insights.png
 - Customer_payment_analysis.png
 
-## Dashboard Preview
 
 
